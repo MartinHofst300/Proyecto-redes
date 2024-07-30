@@ -1,0 +1,17 @@
+body {
+    background-image:url("https://www.gsmspain.com/foros/attach/74/74790.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div{
+    color: red;
+    font-size: 30px;
+    border: 2px solid blue;
+    width: 120px;
+    height: 100px;
+    
+    }
+    a{
+        color: white;
+    }

@@ -1,0 +1,17 @@
+body {
+    background-image:url("https://estaticos-cdn.prensaiberica.es/clip/76b7bda8-dc43-45d0-90dd-2c73493705ec_16-9-discover-aspect-ratio_default_0.webp") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div{
+    color: red;
+    font-size: 30px;
+    border: 2px solid blue;
+    width: 120px;
+    height: 100px;
+    
+    }
+    a{
+        color: white;
+    }
