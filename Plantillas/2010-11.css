@@ -1,5 +1,5 @@
 body {
-    background-image:url("https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/09/15/16316971699595.jpg") ;
+    background-image:url("../resources/Barca\ 2010-11.png") ;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -13,5 +13,5 @@ div{
     
     }
     a{
-        color: white;
+        color: red;
     }

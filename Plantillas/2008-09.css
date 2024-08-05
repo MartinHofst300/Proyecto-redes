@@ -1,5 +1,5 @@
 body {
-    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoTYYou6j01UxKE9LGt4CE8-E4gezZApNPEw&s") ;
+    background-image:url("../resources/Barca\ 2008-09.png") ;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -13,5 +13,5 @@ div{
     
     }
     a{
-        color: red;
+        color: white;
     }
