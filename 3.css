@@ -5,7 +5,7 @@ body {
 }
 
 .Volver{
-    color: yellow;
+    color: rgb(237, 187, 0);
     font-size: 25px;
     border: 3px solid blue;
     border-radius: 13px;
@@ -17,7 +17,7 @@ body {
  }
 
  .dos{
-    color: yellow;
+    color: rgb(237, 187, 0);
     font-size: 17px;
     border: 3px solid blue;
     border-radius: 13px;
@@ -29,7 +29,7 @@ body {
 }
 
 .uno{
-    color: yellow;
+    color: rgb(237, 187, 0);
     font-size: 17px;
     border: 3px solid red;
     border-radius: 13px;
